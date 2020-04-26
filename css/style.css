@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   height: 230px;
   width: 200px;
-  margin: auto;
+  margin: 15px auto;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
