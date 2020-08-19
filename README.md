@@ -3,4 +3,4 @@ This is my personal portfolio website developed using HTML5, CSS3, Bootstrap, jQ
 See my portfolio at : sonalikaroy13.bitbucket.io  
 
 ### Contribution guidelines ###
-No contribution is expected.
+All suggestions are welcomed and highly appreciated :)
